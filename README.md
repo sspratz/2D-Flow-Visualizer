@@ -13,6 +13,10 @@ $`\dot x = r*x - 3*x^{3} - y`$
 
 $`\dot y = \frac{1}{t} * (x - y)`$
 
-So the code took some little twists and now it is actually pretty useful to play with, as it uses the package ipywidgets to visualize instant changes in some parameters.
+Where there is another parameter t that "slows" or "swifts" the response.
+
+So the code took some little twists and got more and more complex with the more parameters it could consider. 
+
+Now it is actually pretty useful to play with, as it uses the package ipywidgets to visualize instant changes in some parameters.
 
 Hope it helps anyone :D
